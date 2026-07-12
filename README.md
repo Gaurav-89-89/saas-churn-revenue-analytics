@@ -52,7 +52,7 @@ Full write-up: `docs/insights_and_recommendations.md`
 
 ## Dashboard
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png.png)
 
 Interactive filters by region, industry, and plan tier. Built in Power BI.
 
